@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashley! <br/><a href="https://www.[linkedin.com/in/ashley-martinez-94b6848a/">IT Professional</a>
+<h1>Hi, I'm Ashley! <br/><a href="https://www.[linkedin.com/in/ashley-martinez-94b6848a/]">IT Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
