@@ -1,9 +1,9 @@
 <h1>Hi, I'm Ashley! <br/><a href="https://www.linkedin.com/in/ashley-martinez-94b6848a/">IT Professional</a>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/LoFiTechie/ActiveDirectoryLab)
-- <b>System Monitoring Dashboard</b>
+- <b>Computer Maintenance</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Virtual Lab Environment</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
