@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/LoFiTechie/ActiveDirectoryLab)
+- <b>Windows Labs</b>
+- [Windows File Management Lab](https://github.com/LoFiTechie/Windows-File-Management-Lab)
 - <b>Computer Maintenance</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Virtual Lab Environment</b>
